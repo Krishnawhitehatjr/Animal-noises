@@ -18,6 +18,5 @@ body
 .copy_right_footer
 {
     background-color: blue;
-    width: auto;
-    font-size: medium;
+    color: red ;
 }
