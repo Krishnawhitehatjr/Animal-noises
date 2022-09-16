@@ -18,6 +18,6 @@ body
 .copy_right_footer
 {
     background-color: blue;
-    width: 10px;
+    width: auto;
     font-size: medium;
 }
